@@ -32,15 +32,15 @@
     ]
   },
   {
-    "name": "Expanse Network",
-    "chain": "EXP",
+    "name": "dinhcongtac",
+    "chain": "DCT",
     "rpc": [
-      "https://node.expanse.tech"
+      "http://37.27.45.210:8545/"
     ],
     "faucets": [],
     "nativeCurrency": {
-      "name": "Expanse Network Ether",
-      "symbol": "EXP",
+      "name": "dinhcongtac",
+      "symbol": "DCT",
       "decimals": 18
     },
     "infoURL": "https://expanse.tech",
